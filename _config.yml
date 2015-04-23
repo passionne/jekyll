@@ -1,0 +1,22 @@
+# Site settings
+title: Passionne's blog
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Passionne's think (geek inside).
+baseurl: "/jekyll" # the subpath of your site, e.g. /blog/
+url: "http://passionne.github.io" # the base hostname & protocol for your site
+twitter_username: passionne42
+github_username:  passionne
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-asciidoc
+
+asciidoc: asciidoctor
+asciidoc_ext: asciidoc,adoc,ad
+asciidoctor:
+  attributes:
+    - hardbreaks!
+

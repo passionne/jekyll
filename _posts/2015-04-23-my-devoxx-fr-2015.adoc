@@ -1,0 +1,19 @@
+---
+---
+= DevoxxFR 2015
+
+Cette année, j'ai eu la chance d'aller à http://devoxx.fr/[Devoxx France] au Palais des Congrès à Paris. Et je tiens tous de suite à remercier http://salto-consulting.com/[Salto Consulting] pour qui je travail et http://www.oxiane.com/[Oxiane] l'organisme de formation, pour m'avoir permis d'y aller. En résumer c'était génial, à tel point que j'ai enfin décidé de créer mon blog pour partager cette expérience.
+
+Que dire... le plein d'émotion. Vraiment, se retrouver au milieu de milier de geek, des discutions intéressantes dans tous les coins. Croisé plein de "stars" du monde java au même endroit. C'est juste blufant.
+
+Avant de venir, j'imaginais une sorte de JUG mais sur trois jours. En fait c'est bien plus que ça. Non seulement il faut choisir entre plétore de sujet intéressant, mais en plus ça va à toute vitesse ! à peine une conférence terminé, la tête pleine d'idée et hop on fait le tour du palais et on repars sur un autre sujet tout aussi intéressant !
+
+Les organisateurs parle de Devoox Blues. Qu'il ne se sentent pas seul, cette une étrange sensation que de revenir au monde réel. Et pour autant c'est justement là tous le plaisir : revenir au boulot des idées plein la tête et faire avancé le monde !
+
+Si je devais retenir quelques moments fort ça commencerait par les keynotes, vraiment ça fait réflechir, donnée un peu de perspective à notre travail, aux impacts et ce que l'on peut faire. En théorie on dit aujourd'hui que le logiciel envahie le monde (software is eating the world), en pratique, tous les jours au travail : c'est juste vrai. Est-ce qu'un bug en prod pénalise un utilisateur ? Est-ce qu'une faille de sécurité peut engendré une fuite d'information confidentielle pour votre entreprise|employeur|client ? N'ais-je pas le sourire quand après de nombreux effort une nouvelle fonctionnalité part en production et rends service à plein de monde ?
+
+Un autre moment "awesome" également : rencontré des commiteurs maven au BoF, discuté avec eux, comprendre la problématique du projet que vous utilisé tous les jours. Et s'enrichir de ses échanges pour mieux comprendre les enjeux et ce que l'on peut faire. (par exemple en essayant de contribuer !)
+
+Et enfin juste Devoxx. Des démos impressionnantes, des hands'lab pour mettre les mains dans le camboui et des idées plein la tête. J'avais déjà aimé l'expérience de l'Agile Tour pour l'ouverture d'esprit que cela peut apporter. Là on y retrouve les mêmes ingrédients avec plus d'effervescence encore.
+
+Si un jour je me décide à changer le monde. ça sera certainement un lendemain de Devoxx !

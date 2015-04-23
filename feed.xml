@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passionne&#39;s blog</title>
+    <description>Passionne&#39;s think (geek inside).
+</description>
+    <link>http://passionne.github.io/jekyll/</link>
+    <atom:link href="http://passionne.github.io/jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Apr 2015 10:08:11 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2015 10:08:11 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>DevoxxFR 2015</title>
+        <description>&lt;h1&gt;DevoxxFR 2015&lt;/h1&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Cette année, j&amp;#8217;ai eu la chance d&amp;#8217;aller à &lt;a href=&quot;http://devoxx.fr/&quot;&gt;Devoxx France&lt;/a&gt; au Palais des Congrès à Paris. Et je tiens tous de suite à remercier &lt;a href=&quot;http://salto-consulting.com/&quot;&gt;Salto Consulting&lt;/a&gt; pour qui je travail et &lt;a href=&quot;http://www.oxiane.com/&quot;&gt;Oxiane&lt;/a&gt; l&amp;#8217;organisme de formation, pour m&amp;#8217;avoir permis d&amp;#8217;y aller. En résumer c&amp;#8217;était génial, à tel point que j&amp;#8217;ai enfin décidé de créer mon blog pour partager cette expérience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Que dire&amp;#8230;&amp;#8203; le plein d&amp;#8217;émotion. Vraiment, se retrouver au milieu de milier de geek, des discutions intéressantes dans tous les coins. Croisé plein de &quot;stars&quot; du monde java au même endroit. C&amp;#8217;est juste blufant.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Avant de venir, j&amp;#8217;imaginais une sorte de JUG mais sur trois jours. En fait c&amp;#8217;est bien plus que ça. Non seulement il faut choisir entre plétore de sujet intéressant, mais en plus ça va à toute vitesse ! à peine une conférence terminé, la tête pleine d&amp;#8217;idée et hop on fait le tour du palais et on repars sur un autre sujet tout aussi intéressant !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Les organisateurs parle de Devoox Blues. Qu&amp;#8217;il ne se sentent pas seul, cette une étrange sensation que de revenir au monde réel. Et pour autant c&amp;#8217;est justement là tous le plaisir : revenir au boulot des idées plein la tête et faire avancé le monde !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Si je devais retenir quelques moments fort ça commencerait par les keynotes, vraiment ça fait réflechir, donnée un peu de perspective à notre travail, aux impacts et ce que l&amp;#8217;on peut faire. En théorie on dit aujourd&amp;#8217;hui que le logiciel envahie le monde (software is eating the world), en pratique, tous les jours au travail : c&amp;#8217;est juste vrai. Est-ce qu&amp;#8217;un bug en prod pénalise un utilisateur ? Est-ce qu&amp;#8217;une faille de sécurité peut engendré une fuite d&amp;#8217;information confidentielle pour votre entreprise|employeur|client ? N&amp;#8217;ais-je pas le sourire quand après de nombreux effort une nouvelle fonctionnalité part en production et rends service à plein de monde ?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Un autre moment &quot;awesome&quot; également : rencontré des commiteurs maven au BoF, discuté avec eux, comprendre la problématique du projet que vous utilisé tous les jours. Et s&amp;#8217;enrichir de ses échanges pour mieux comprendre les enjeux et ce que l&amp;#8217;on peut faire. (par exemple en essayant de contribuer !)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Et enfin juste Devoxx. Des démos impressionnantes, des hands&amp;#8217;lab pour mettre les mains dans le camboui et des idées plein la tête. J&amp;#8217;avais déjà aimé l&amp;#8217;expérience de l&amp;#8217;Agile Tour pour l&amp;#8217;ouverture d&amp;#8217;esprit que cela peut apporter. Là on y retrouve les mêmes ingrédients avec plus d&amp;#8217;effervescence encore.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Si un jour je me décide à changer le monde. ça sera certainement un lendemain de Devoxx !&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Thu, 23 Apr 2015 00:00:00 +0200</pubDate>
+        <link>http://passionne.github.io/jekyll/2015/04/23/my-devoxx-fr-2015.html</link>
+        <guid isPermaLink="true">http://passionne.github.io/jekyll/2015/04/23/my-devoxx-fr-2015.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

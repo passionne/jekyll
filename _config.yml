@@ -20,3 +20,5 @@ asciidoctor:
   attributes:
     - hardbreaks!
 
+exclude: [build.sh]
+

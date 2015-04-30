@@ -8,7 +8,7 @@ Que dire... le plein d'émotions. Vraiment, se retrouver au milieu de millier de
 
 Avant de venir, j'imaginais une sorte de JUG mais sur trois jours. En fait c'est bien plus que ça. Non seulement il faut choisir entre pléthore de sujets intéressants, mais en plus ça va à toute vitesse ! à peine une conférence terminée, la tête pleine d'idée et hop on fait le tour du palais et on repart sur un autre sujet tout aussi intéressant !
 
-Les organisateurs parlent de Devoxx Blues. Qu'ils ne se sentent pas seul, cette une étrange sensation que de revenir au monde réel. Et pour autant c'est justement là tous le plaisir : revenir au boulot des idées plein la tête et faire avancer le monde !
+Les organisateurs parlent de Devoxx Blues. Qu'ils ne se sentent pas seul, c'est une étrange sensation que de revenir au monde réel. Et pour autant c'est justement là tous le plaisir : revenir au boulot des idées plein la tête et faire avancer le monde !
 
 Si je devais retenir quelques moments forts ça commencerait par les keynotes. Se projeter dans l’avenir, mettre notre travail en perspective, penser aux conséquences... Un véritable moment de réflexion. En théorie on dit aujourd'hui que le logiciel envahit le monde (software is eating the world), en pratique, tous les jours au travail : c'est juste vrai. Est-ce qu'un bug en prod pénalise un utilisateur ? Est-ce qu'une faille de sécurité peut engendrer une fuite d'informations confidentielles pour votre entreprise|employeur|client ? N'ai-je pas le sourire quand après de nombreux efforts une nouvelle fonctionnalité part en production et rend service à plein de monde ?
 
